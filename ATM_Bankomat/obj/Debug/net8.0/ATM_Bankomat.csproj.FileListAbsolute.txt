@@ -1,0 +1,14 @@
+C:\Users\USER\Projects\ATM_Bankomat\bin\Debug\net8.0\ATM_Bankomat.exe
+C:\Users\USER\Projects\ATM_Bankomat\bin\Debug\net8.0\ATM_Bankomat.deps.json
+C:\Users\USER\Projects\ATM_Bankomat\bin\Debug\net8.0\ATM_Bankomat.runtimeconfig.json
+C:\Users\USER\Projects\ATM_Bankomat\bin\Debug\net8.0\ATM_Bankomat.dll
+C:\Users\USER\Projects\ATM_Bankomat\bin\Debug\net8.0\ATM_Bankomat.pdb
+C:\Users\USER\Projects\ATM_Bankomat\obj\Debug\net8.0\ATM_Bankomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Projects\ATM_Bankomat\obj\Debug\net8.0\ATM_Bankomat.AssemblyInfoInputs.cache
+C:\Users\USER\Projects\ATM_Bankomat\obj\Debug\net8.0\ATM_Bankomat.AssemblyInfo.cs
+C:\Users\USER\Projects\ATM_Bankomat\obj\Debug\net8.0\ATM_Bankomat.csproj.CoreCompileInputs.cache
+C:\Users\USER\Projects\ATM_Bankomat\obj\Debug\net8.0\ATM_Bankomat.dll
+C:\Users\USER\Projects\ATM_Bankomat\obj\Debug\net8.0\refint\ATM_Bankomat.dll
+C:\Users\USER\Projects\ATM_Bankomat\obj\Debug\net8.0\ATM_Bankomat.pdb
+C:\Users\USER\Projects\ATM_Bankomat\obj\Debug\net8.0\ATM_Bankomat.genruntimeconfig.cache
+C:\Users\USER\Projects\ATM_Bankomat\obj\Debug\net8.0\ref\ATM_Bankomat.dll

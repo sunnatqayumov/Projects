@@ -1,0 +1,14 @@
+C:\Users\USER\Projects\OqtepaLavash\bin\Debug\net8.0\OqtepaLavash.exe
+C:\Users\USER\Projects\OqtepaLavash\bin\Debug\net8.0\OqtepaLavash.deps.json
+C:\Users\USER\Projects\OqtepaLavash\bin\Debug\net8.0\OqtepaLavash.runtimeconfig.json
+C:\Users\USER\Projects\OqtepaLavash\bin\Debug\net8.0\OqtepaLavash.dll
+C:\Users\USER\Projects\OqtepaLavash\bin\Debug\net8.0\OqtepaLavash.pdb
+C:\Users\USER\Projects\OqtepaLavash\obj\Debug\net8.0\OqtepaLavash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Projects\OqtepaLavash\obj\Debug\net8.0\OqtepaLavash.AssemblyInfoInputs.cache
+C:\Users\USER\Projects\OqtepaLavash\obj\Debug\net8.0\OqtepaLavash.AssemblyInfo.cs
+C:\Users\USER\Projects\OqtepaLavash\obj\Debug\net8.0\OqtepaLavash.csproj.CoreCompileInputs.cache
+C:\Users\USER\Projects\OqtepaLavash\obj\Debug\net8.0\OqtepaLavash.dll
+C:\Users\USER\Projects\OqtepaLavash\obj\Debug\net8.0\refint\OqtepaLavash.dll
+C:\Users\USER\Projects\OqtepaLavash\obj\Debug\net8.0\OqtepaLavash.pdb
+C:\Users\USER\Projects\OqtepaLavash\obj\Debug\net8.0\OqtepaLavash.genruntimeconfig.cache
+C:\Users\USER\Projects\OqtepaLavash\obj\Debug\net8.0\ref\OqtepaLavash.dll
