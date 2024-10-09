@@ -1,0 +1,15 @@
+C:\Users\USER\Projects\Football\obj\Debug\net8.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Projects\Football\obj\Debug\net8.0\Football.AssemblyInfoInputs.cache
+C:\Users\USER\Projects\Football\obj\Debug\net8.0\Football.AssemblyInfo.cs
+C:\Users\USER\Projects\Football\obj\Debug\net8.0\Football.csproj.CoreCompileInputs.cache
+C:\Users\USER\Projects\Football\obj\Debug\net8.0\Football.sourcelink.json
+C:\Users\USER\Projects\Football\bin\Debug\net8.0\Football.exe
+C:\Users\USER\Projects\Football\bin\Debug\net8.0\Football.deps.json
+C:\Users\USER\Projects\Football\bin\Debug\net8.0\Football.runtimeconfig.json
+C:\Users\USER\Projects\Football\bin\Debug\net8.0\Football.dll
+C:\Users\USER\Projects\Football\bin\Debug\net8.0\Football.pdb
+C:\Users\USER\Projects\Football\obj\Debug\net8.0\Football.dll
+C:\Users\USER\Projects\Football\obj\Debug\net8.0\refint\Football.dll
+C:\Users\USER\Projects\Football\obj\Debug\net8.0\Football.pdb
+C:\Users\USER\Projects\Football\obj\Debug\net8.0\Football.genruntimeconfig.cache
+C:\Users\USER\Projects\Football\obj\Debug\net8.0\ref\Football.dll
