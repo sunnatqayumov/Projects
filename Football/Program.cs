@@ -29,8 +29,8 @@ public struct Futbolchi
 public class Jamoa
 {
     public string Nomi { get; set; }
-    private Futbolchi[] futbolchilar;
-    private int futbolchiSoni;
+    public Futbolchi[] futbolchilar;
+    public int futbolchiSoni;
 
     public Jamoa(string nomi, int maksimalFutbolchiSoni)
     {
@@ -86,7 +86,7 @@ public class Program
         jamoa.FutbolchiQoshish(futbolchi2);
 
         futbolchi1.GolUrish();
-        futbolchi1.GolUrish();
+        futbolchi2.GolUrish();
 
         jamoa.StatistikaChopEtish();
         Console.WriteLine($"Umumiy Gollar: {jamoa.UmumiyGollar()}");

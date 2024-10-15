@@ -1,0 +1,5 @@
+C:\Users\USER\Projects\LibraryManagement\obj\Debug\net8.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Projects\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\USER\Projects\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\USER\Projects\LibraryManagement\obj\Debug\net8.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\USER\Projects\LibraryManagement\obj\Debug\net8.0\LibraryManagement.sourcelink.json

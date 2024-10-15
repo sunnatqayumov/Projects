@@ -203,11 +203,11 @@ else if(Tanlov == 2)
             break;
 
             case 4:
-            Console.WriteLine("Успешно вышли из система.");
+                Console.WriteLine("Успешно вышли из система.");
             break;
 
             default:
-            Console.WriteLine("Неправильный выбор. Пожалуйста попробуйте ещё раз.");
+                Console.WriteLine("Неправильный выбор. Пожалуйста попробуйте ещё раз.");
             break;
         }
     }
@@ -267,48 +267,48 @@ else if(Tanlov == 3)
         switch(tanlov)
         {
             case 1:
-            Console.WriteLine("Balansingiz: " + balans);
+                Console.WriteLine("Balansingiz: " + balans);
             break;
 
             case 2:
-            Console.WriteLine("Ismingizni va parolni kiriting: ");
-            string name = Console.ReadLine()!;
-            int password = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Ismingizni va parolni kiriting: ");
+                string name = Console.ReadLine()!;
+                int password = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Pul qo'yish miqdorini kiriting: ");
-            double depozit = Convert.ToDouble(Console.ReadLine());
+                Console.Write("Pul qo'yish miqdorini kiriting: ");
+                double depozit = Convert.ToDouble(Console.ReadLine());
 
-            balans += depozit;
-            balans -= depozit / 100;
-            Console.WriteLine("Depozit amalga oshirildi. Yangi balansingiz: " + balans);
+                balans += depozit;
+                balans -= depozit / 100;
+                Console.WriteLine("Depozit amalga oshirildi. Yangi balansingiz: " + balans);
             break;
 
             case 3:
-            Console.WriteLine("Ismingizni va parolni kiriting: ");
-            string name1 = Console.ReadLine()!;
-            int password1 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Ismingizni va parolni kiriting: ");
+                string name1 = Console.ReadLine()!;
+                int password1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Yechib olish miqdori: ");
-            double yechibOlish = Convert.ToDouble(Console.ReadLine());
+                Console.Write("Yechib olish miqdori: ");
+                double yechibOlish = Convert.ToDouble(Console.ReadLine());
 
-            if(yechibOlish <= balans)
-            {
-                balans -= yechibOlish;
-                balans -= yechibOlish / 100;
-                Console.WriteLine("Pul muvaffaqiyatli yechib olindi. Yangi balansingiz: " + balans);
-            }
-            else
-            {
-                Console.WriteLine("Mablag' yetarli emas.");
-            }
+                if(yechibOlish <= balans)
+                {
+                    balans -= yechibOlish;
+                    balans -= yechibOlish / 100;
+                    Console.WriteLine("Pul muvaffaqiyatli yechib olindi. Yangi balansingiz: " + balans);
+                }
+                else
+                {
+                    Console.WriteLine("Mablag' yetarli emas.");
+                }
             break;
 
             case 4:
-            Console.WriteLine("Tizimdan muvaffaqiyatli chiqdingiz.");
+                Console.WriteLine("Tizimdan muvaffaqiyatli chiqdingiz.");
             break;
 
             default:
-            Console.WriteLine("Notog'ri tanlov. Iltimos qaytadan urinib ko'ring.");
+                Console.WriteLine("Notog'ri tanlov. Iltimos qaytadan urinib ko'ring.");
             break;
         }
     }

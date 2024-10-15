@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Football")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("OOP_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38ae644709ec173d52aa93ce97ebc1402211faec")]
-[assembly: System.Reflection.AssemblyProductAttribute("Football")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Football")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70f2792f9e7b07d7e522299872c7b1b20f95474a")]
+[assembly: System.Reflection.AssemblyProductAttribute("OOP_Project")]
+[assembly: System.Reflection.AssemblyTitleAttribute("OOP_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

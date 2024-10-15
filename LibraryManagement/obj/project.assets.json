@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Projects\\OOP_Project\\OOP_Project.csproj",
-      "projectName": "OOP_Project",
-      "projectPath": "C:\\Users\\USER\\Projects\\OOP_Project\\OOP_Project.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Projects\\LibraryManagement\\LibraryManagement.csproj",
+      "projectName": "LibraryManagement",
+      "projectPath": "C:\\Users\\USER\\Projects\\LibraryManagement\\LibraryManagement.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Projects\\OOP_Project\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Projects\\LibraryManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
