@@ -90,7 +90,7 @@ public class Book : LibraryItem, IBorrowable, ISearchable
 
 
 6. Metod Overloading va Overriding
-Library sinfida AddItem() metodini overload qilish orqali bir nechta element qo'shish imkoniyatini taqdim etdik. Shuningdek, Book va Magazine sinflarida ToString() metodini overriding qilish orqali ularning batafsil ma'lumotlarini ko'rsatish imkonini yaratamiz.
+Library sinfida AddItem() metodini overload qilish orqali bir nechta element qo'shish imkoniyatini taqdim etamiz. Book va Magazine sinflarida ToString() metodini overriding qilish orqali ularning batafsil ma'lumotlarini ko'rsatish imkonini yaratamiz.
 
 `Kod misoli`
 public void AddItem(Book book)

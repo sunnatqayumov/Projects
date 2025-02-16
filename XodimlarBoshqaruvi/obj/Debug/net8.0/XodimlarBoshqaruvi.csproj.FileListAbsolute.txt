@@ -1,0 +1,15 @@
+C:\Users\USER\Projects\XodimlarBoshqaruvi\bin\Debug\net8.0\XodimlarBoshqaruvi.exe
+C:\Users\USER\Projects\XodimlarBoshqaruvi\bin\Debug\net8.0\XodimlarBoshqaruvi.deps.json
+C:\Users\USER\Projects\XodimlarBoshqaruvi\bin\Debug\net8.0\XodimlarBoshqaruvi.runtimeconfig.json
+C:\Users\USER\Projects\XodimlarBoshqaruvi\bin\Debug\net8.0\XodimlarBoshqaruvi.dll
+C:\Users\USER\Projects\XodimlarBoshqaruvi\bin\Debug\net8.0\XodimlarBoshqaruvi.pdb
+C:\Users\USER\Projects\XodimlarBoshqaruvi\obj\Debug\net8.0\XodimlarBoshqaruvi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Projects\XodimlarBoshqaruvi\obj\Debug\net8.0\XodimlarBoshqaruvi.AssemblyInfoInputs.cache
+C:\Users\USER\Projects\XodimlarBoshqaruvi\obj\Debug\net8.0\XodimlarBoshqaruvi.AssemblyInfo.cs
+C:\Users\USER\Projects\XodimlarBoshqaruvi\obj\Debug\net8.0\XodimlarBoshqaruvi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Projects\XodimlarBoshqaruvi\obj\Debug\net8.0\XodimlarBoshqaruvi.sourcelink.json
+C:\Users\USER\Projects\XodimlarBoshqaruvi\obj\Debug\net8.0\XodimlarBoshqaruvi.dll
+C:\Users\USER\Projects\XodimlarBoshqaruvi\obj\Debug\net8.0\refint\XodimlarBoshqaruvi.dll
+C:\Users\USER\Projects\XodimlarBoshqaruvi\obj\Debug\net8.0\XodimlarBoshqaruvi.pdb
+C:\Users\USER\Projects\XodimlarBoshqaruvi\obj\Debug\net8.0\XodimlarBoshqaruvi.genruntimeconfig.cache
+C:\Users\USER\Projects\XodimlarBoshqaruvi\obj\Debug\net8.0\ref\XodimlarBoshqaruvi.dll

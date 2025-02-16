@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m0qx0MXFXaw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Projects\\CustomerRelationshipManagement\\CustomerRelationshipManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\spectre.console.cli\\0.49.1\\spectre.console.cli.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\USER\Projects\CosmicKema\bin\Debug\net8.0\CosmicKema.exe
+C:\Users\USER\Projects\CosmicKema\bin\Debug\net8.0\CosmicKema.deps.json
+C:\Users\USER\Projects\CosmicKema\bin\Debug\net8.0\CosmicKema.runtimeconfig.json
+C:\Users\USER\Projects\CosmicKema\bin\Debug\net8.0\CosmicKema.dll
+C:\Users\USER\Projects\CosmicKema\bin\Debug\net8.0\CosmicKema.pdb
+C:\Users\USER\Projects\CosmicKema\obj\Debug\net8.0\CosmicKema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Projects\CosmicKema\obj\Debug\net8.0\CosmicKema.AssemblyInfoInputs.cache
+C:\Users\USER\Projects\CosmicKema\obj\Debug\net8.0\CosmicKema.AssemblyInfo.cs
+C:\Users\USER\Projects\CosmicKema\obj\Debug\net8.0\CosmicKema.csproj.CoreCompileInputs.cache
+C:\Users\USER\Projects\CosmicKema\obj\Debug\net8.0\CosmicKema.sourcelink.json
+C:\Users\USER\Projects\CosmicKema\obj\Debug\net8.0\CosmicKema.dll
+C:\Users\USER\Projects\CosmicKema\obj\Debug\net8.0\refint\CosmicKema.dll
+C:\Users\USER\Projects\CosmicKema\obj\Debug\net8.0\CosmicKema.pdb
+C:\Users\USER\Projects\CosmicKema\obj\Debug\net8.0\CosmicKema.genruntimeconfig.cache
+C:\Users\USER\Projects\CosmicKema\obj\Debug\net8.0\ref\CosmicKema.dll

@@ -12,3 +12,4 @@ C:\Users\USER\Projects\OqtepaLavash\obj\Debug\net8.0\refint\OqtepaLavash.dll
 C:\Users\USER\Projects\OqtepaLavash\obj\Debug\net8.0\OqtepaLavash.pdb
 C:\Users\USER\Projects\OqtepaLavash\obj\Debug\net8.0\OqtepaLavash.genruntimeconfig.cache
 C:\Users\USER\Projects\OqtepaLavash\obj\Debug\net8.0\ref\OqtepaLavash.dll
+C:\Users\USER\Projects\OqtepaLavash\obj\Debug\net8.0\OqtepaLavash.sourcelink.json

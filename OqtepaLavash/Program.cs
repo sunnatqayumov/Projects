@@ -1,4 +1,4 @@
-﻿class OqTepaLavash
+﻿public class OqTepaLavash
 {
     public static void Main()
     {
@@ -44,7 +44,7 @@
         }
     }
 
-    static double Lavash()
+    public static double Lavash()
     {
         double narx = 0;
 

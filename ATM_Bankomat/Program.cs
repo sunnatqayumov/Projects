@@ -1,4 +1,4 @@
-﻿    double balans = 0;
+﻿double balans = 0;
 
     Console.WriteLine("+-----------------------------------------+");
     Console.WriteLine("|                Language                 |");

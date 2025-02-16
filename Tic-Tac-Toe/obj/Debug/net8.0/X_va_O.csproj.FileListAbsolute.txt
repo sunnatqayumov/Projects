@@ -1,0 +1,15 @@
+C:\Users\USER\Projects\Tic-Tac-Toe\bin\Debug\net8.0\X_va_O.exe
+C:\Users\USER\Projects\Tic-Tac-Toe\bin\Debug\net8.0\X_va_O.deps.json
+C:\Users\USER\Projects\Tic-Tac-Toe\bin\Debug\net8.0\X_va_O.runtimeconfig.json
+C:\Users\USER\Projects\Tic-Tac-Toe\bin\Debug\net8.0\X_va_O.dll
+C:\Users\USER\Projects\Tic-Tac-Toe\bin\Debug\net8.0\X_va_O.pdb
+C:\Users\USER\Projects\Tic-Tac-Toe\obj\Debug\net8.0\X_va_O.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Projects\Tic-Tac-Toe\obj\Debug\net8.0\X_va_O.AssemblyInfoInputs.cache
+C:\Users\USER\Projects\Tic-Tac-Toe\obj\Debug\net8.0\X_va_O.AssemblyInfo.cs
+C:\Users\USER\Projects\Tic-Tac-Toe\obj\Debug\net8.0\X_va_O.csproj.CoreCompileInputs.cache
+C:\Users\USER\Projects\Tic-Tac-Toe\obj\Debug\net8.0\X_va_O.sourcelink.json
+C:\Users\USER\Projects\Tic-Tac-Toe\obj\Debug\net8.0\X_va_O.dll
+C:\Users\USER\Projects\Tic-Tac-Toe\obj\Debug\net8.0\refint\X_va_O.dll
+C:\Users\USER\Projects\Tic-Tac-Toe\obj\Debug\net8.0\X_va_O.pdb
+C:\Users\USER\Projects\Tic-Tac-Toe\obj\Debug\net8.0\X_va_O.genruntimeconfig.cache
+C:\Users\USER\Projects\Tic-Tac-Toe\obj\Debug\net8.0\ref\X_va_O.dll

@@ -1,0 +1,15 @@
+C:\Users\USER\Projects\ShaxsMalumotlariBoshqaruvTizimi\bin\Debug\net8.0\ShaxsMalumotlariBoshqaruvTizimi.exe
+C:\Users\USER\Projects\ShaxsMalumotlariBoshqaruvTizimi\bin\Debug\net8.0\ShaxsMalumotlariBoshqaruvTizimi.deps.json
+C:\Users\USER\Projects\ShaxsMalumotlariBoshqaruvTizimi\bin\Debug\net8.0\ShaxsMalumotlariBoshqaruvTizimi.runtimeconfig.json
+C:\Users\USER\Projects\ShaxsMalumotlariBoshqaruvTizimi\bin\Debug\net8.0\ShaxsMalumotlariBoshqaruvTizimi.dll
+C:\Users\USER\Projects\ShaxsMalumotlariBoshqaruvTizimi\bin\Debug\net8.0\ShaxsMalumotlariBoshqaruvTizimi.pdb
+C:\Users\USER\Projects\ShaxsMalumotlariBoshqaruvTizimi\obj\Debug\net8.0\ShaxsMalumotlariBoshqaruvTizimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Projects\ShaxsMalumotlariBoshqaruvTizimi\obj\Debug\net8.0\ShaxsMalumotlariBoshqaruvTizimi.AssemblyInfoInputs.cache
+C:\Users\USER\Projects\ShaxsMalumotlariBoshqaruvTizimi\obj\Debug\net8.0\ShaxsMalumotlariBoshqaruvTizimi.AssemblyInfo.cs
+C:\Users\USER\Projects\ShaxsMalumotlariBoshqaruvTizimi\obj\Debug\net8.0\ShaxsMalumotlariBoshqaruvTizimi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Projects\ShaxsMalumotlariBoshqaruvTizimi\obj\Debug\net8.0\ShaxsMalumotlariBoshqaruvTizimi.sourcelink.json
+C:\Users\USER\Projects\ShaxsMalumotlariBoshqaruvTizimi\obj\Debug\net8.0\ShaxsMalumotlariBoshqaruvTizimi.dll
+C:\Users\USER\Projects\ShaxsMalumotlariBoshqaruvTizimi\obj\Debug\net8.0\refint\ShaxsMalumotlariBoshqaruvTizimi.dll
+C:\Users\USER\Projects\ShaxsMalumotlariBoshqaruvTizimi\obj\Debug\net8.0\ShaxsMalumotlariBoshqaruvTizimi.pdb
+C:\Users\USER\Projects\ShaxsMalumotlariBoshqaruvTizimi\obj\Debug\net8.0\ShaxsMalumotlariBoshqaruvTizimi.genruntimeconfig.cache
+C:\Users\USER\Projects\ShaxsMalumotlariBoshqaruvTizimi\obj\Debug\net8.0\ref\ShaxsMalumotlariBoshqaruvTizimi.dll

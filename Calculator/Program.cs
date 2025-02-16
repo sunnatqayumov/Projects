@@ -1,25 +1,25 @@
 ﻿class Program
+{
+    static void Main()
     {
-        static void Main()
+        bool Continue = true;
+        string history = "";
+
+        while(Continue)
         {
-            bool Continue = true;
-            string history = "";
+            Console.WriteLine("Calculator Menu:");
+            Console.WriteLine("1. Perform a calculation");
+            Console.WriteLine("2. View calculation history");
+            Console.WriteLine("3. Exit");
+            Console.Write("Enter your choice: ");
+            int tanlov = Convert.ToInt32(Console.ReadLine()!);
 
-            while(Continue)
+            switch(tanlov)
             {
-                Console.WriteLine("Calculator Menu:");
-                Console.WriteLine("1. Perform a calculation");
-                Console.WriteLine("2. View calculation history");
-                Console.WriteLine("3. Exit");
-                Console.Write("Enter your choice: ");
-                int tanlov = Convert.ToInt32(Console.ReadLine()!);
-
-                switch(tanlov)
-                {
-                    case 1:
-                        Console.Write("Enter the first number: ");
-                        double num1 = Convert.ToDouble(Console.ReadLine()!);
-                        Console.Write("Enter the second number: ");
+                case 1:
+                    Console.Write("Enter the first number: ");
+                    double num1 = Convert.ToDouble(Console.ReadLine()!);
+                    Console.Write("Enter the second number: ");
                         double num2 = Convert.ToDouble(Console.ReadLine()!);
                         Console.WriteLine("Choose an operation (+, -, *, /): ");
                         string operation = Console.ReadLine()!;
@@ -78,4 +78,4 @@
                 }
             }
         }
-    }
+}

@@ -25,17 +25,13 @@
                 else if (arr[Index] == "chap") x--;
             }
         }
-
         direction = arr[Index];
         return $"{{x: {x}, y: {y}, direction: '{direction}'}}";
     }
-
     public static void Main()
     {
         string input = Console.ReadLine()!;
-
         string result = MySpaceship(input);
-
         Console.WriteLine(result);
     }
 }

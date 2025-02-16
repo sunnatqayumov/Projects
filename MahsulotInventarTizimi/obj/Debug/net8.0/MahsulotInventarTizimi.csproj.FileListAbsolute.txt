@@ -1,0 +1,15 @@
+C:\Users\USER\Projects\MahsulotInventarTizimi\bin\Debug\net8.0\MahsulotInventarTizimi.exe
+C:\Users\USER\Projects\MahsulotInventarTizimi\bin\Debug\net8.0\MahsulotInventarTizimi.deps.json
+C:\Users\USER\Projects\MahsulotInventarTizimi\bin\Debug\net8.0\MahsulotInventarTizimi.runtimeconfig.json
+C:\Users\USER\Projects\MahsulotInventarTizimi\bin\Debug\net8.0\MahsulotInventarTizimi.dll
+C:\Users\USER\Projects\MahsulotInventarTizimi\bin\Debug\net8.0\MahsulotInventarTizimi.pdb
+C:\Users\USER\Projects\MahsulotInventarTizimi\obj\Debug\net8.0\MahsulotInventarTizimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Projects\MahsulotInventarTizimi\obj\Debug\net8.0\MahsulotInventarTizimi.AssemblyInfoInputs.cache
+C:\Users\USER\Projects\MahsulotInventarTizimi\obj\Debug\net8.0\MahsulotInventarTizimi.AssemblyInfo.cs
+C:\Users\USER\Projects\MahsulotInventarTizimi\obj\Debug\net8.0\MahsulotInventarTizimi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Projects\MahsulotInventarTizimi\obj\Debug\net8.0\MahsulotInventarTizimi.sourcelink.json
+C:\Users\USER\Projects\MahsulotInventarTizimi\obj\Debug\net8.0\MahsulotInventarTizimi.dll
+C:\Users\USER\Projects\MahsulotInventarTizimi\obj\Debug\net8.0\refint\MahsulotInventarTizimi.dll
+C:\Users\USER\Projects\MahsulotInventarTizimi\obj\Debug\net8.0\MahsulotInventarTizimi.pdb
+C:\Users\USER\Projects\MahsulotInventarTizimi\obj\Debug\net8.0\MahsulotInventarTizimi.genruntimeconfig.cache
+C:\Users\USER\Projects\MahsulotInventarTizimi\obj\Debug\net8.0\ref\MahsulotInventarTizimi.dll

@@ -1,4 +1,4 @@
-Assalamu alaykum
+# Assalamu alaykum
 # LibraryManagement Loyiha
 
 ## Kompilatsiya va ishga tushirish:
@@ -20,6 +20,13 @@ Loyihaning asosiy funksionalliklari: kitoblar ro'yxatini boshqarish, yangi kitob
 - Kitoblarni ko'rish: mavjud kitoblar ro'yxatini ko'rish.
 - Kitobni yangilash va o'chirish: ma'lum bir kitobni yangilash yoki ro'yxatdan o'chirish.
 
-## Xatoliklar va ularning ma'nosi:
-- `NullReferenceException`: Bunday xatolik, agar obyekt e'lon qilingan bo'lsa, ammo unga qiymat berilmagan bo'lsa yuzaga keladi. Bu xatoni hal qilish uchun obyektni null emasligiga ishonch hosil qiling.
-- `IndexOutOfRangeException`: Bu xatolik massiv yoki ro'yxat elementiga kirishda noto'g'ri indeksdan foydalanilganda yuzaga keladi. Indeksning to'g'riligini tekshirish kerak.
+### Operatsiyalar Menyusi:
+1. `Add Book📘` - Kutubxonaga yangi kitob qo'shish imkonini beradi.
+2. `Add Magazine➕` - Kutubxonaga yangi jurnal qo'shish imkonini beradi.
+3. `Display Available Items📚` - Kutubxonadagi mavjud barcha kitob va jurnallar ro'yxatini ko'rsatadi.
+4. `Borrow a Book🤝` - Kitobni olish uchun ISBN kiritiladi va agar kitob allaqachon olingan bo'lsa xatolik chiqaradi.
+5. `Return a Book📑` - Kitobni qaytarish uchun ISBN kiritiladi.
+6. `Search Items📊` - Kitoblar va jurnallarni sarlavha, muallif yoki ISBN bo'yicha qidirish.
+7. `Exit❗️` - Dasturdan chiqish imkonini beradi.
+
+# Etiboringiz uchun raxmat!
