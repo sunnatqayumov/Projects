@@ -275,7 +275,6 @@ public class CRMSystem
             Console.ResetColor();
         }
     }
-
     public void ImportantSales()
     {
         Console.Clear();
@@ -284,7 +283,6 @@ public class CRMSystem
                     .Centered()
                     .Color(Color.Maroon));
     }
-
     private void UpdateCustomer()
     {
         Console.Clear();
@@ -307,7 +305,6 @@ public class CRMSystem
                 break;
             }
         }
-
         if(customer != null)
         {
             Console.WriteLine("Mijoz topildi!");
@@ -344,8 +341,6 @@ public class CRMSystem
             Console.WriteLine("Mijoz topilmadi.");
         }
     }
-
-
     private void DeleteCustomer()
     {
         Console.Clear();
@@ -382,7 +377,6 @@ public class CRMSystem
             Console.ResetColor();
         }
     }
-
     public void RegisterSale()
     {
         Console.Clear();
@@ -404,19 +398,16 @@ public class CRMSystem
                 break;
             }
         }
-
         if (customer == null)
         {
             Console.WriteLine("Mijoz topilmadi!");
             return;
         }
-
         Console.WriteLine("Savdo miqdorini kiriting: ");
         var amountInput = Console.ReadLine()!;
 
         Console.WriteLine($"Savdo muvaffaqiyatli ro'yxatdan o'tkazildi! Mijoz: {customer.FirstName} {customer.LastName}, Miqdori: {amountInput} so'm.");
     }
-
     private void UpdateSale()
     {
         Console.Clear();
@@ -438,13 +429,11 @@ public class CRMSystem
                 break;
             }
         }
-
         if(customer == null)
         {
             Console.WriteLine("Mijoz topilmadi!");
             return;
         }
-
         Console.WriteLine($"Hozirgi umumiy savdo miqdori: {RegisterSale} so'm");
         Console.WriteLine("Yangi savdo miqdorini kiriting: ");
         var amountInput = Console.ReadLine()!;
